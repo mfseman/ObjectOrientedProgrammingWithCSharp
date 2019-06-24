@@ -1,0 +1,21 @@
+C:\Users\MarcSem\Documents\C# Programming\Project3CSharp\Project3CSharp\bin\Debug\Project3CSharp.exe.config
+C:\Users\MarcSem\Documents\C# Programming\Project3CSharp\Project3CSharp\bin\Debug\Project3CSharp.exe
+C:\Users\MarcSem\Documents\C# Programming\Project3CSharp\Project3CSharp\bin\Debug\Project3CSharp.pdb
+C:\Users\MarcSem\Documents\C# Programming\Project3CSharp\Project3CSharp\obj\Debug\Project3CSharp.csprojResolveAssemblyReference.cache
+C:\Users\MarcSem\Documents\C# Programming\Project3CSharp\Project3CSharp\obj\Debug\Project3CSharp.Form1.resources
+C:\Users\MarcSem\Documents\C# Programming\Project3CSharp\Project3CSharp\obj\Debug\Project3CSharp.Properties.Resources.resources
+C:\Users\MarcSem\Documents\C# Programming\Project3CSharp\Project3CSharp\obj\Debug\Project3CSharp.csproj.GenerateResource.Cache
+C:\Users\MarcSem\Documents\C# Programming\Project3CSharp\Project3CSharp\obj\Debug\Project3CSharp.exe
+C:\Users\MarcSem\Documents\C# Programming\Project3CSharp\Project3CSharp\obj\Debug\Project3CSharp.pdb
+E:\Project3CSharp\Project3CSharp\Project3CSharp\bin\Debug\Project3CSharp.exe.config
+E:\Project3CSharp\Project3CSharp\Project3CSharp\obj\Debug\Project3CSharp.exe
+E:\Project3CSharp\Project3CSharp\Project3CSharp\obj\Debug\Project3CSharp.pdb
+E:\Project3CSharp\Project3CSharp\Project3CSharp\bin\Debug\Project3CSharp.exe
+E:\Project3CSharp\Project3CSharp\Project3CSharp\bin\Debug\Project3CSharp.pdb
+E:\Project3CSharp\Project3CSharp\Project3CSharp\obj\Debug\Project3CSharp.csprojResolveAssemblyReference.cache
+E:\Project3CSharp\Project3CSharp\Project3CSharp\obj\Debug\Project3CSharp.Form1.resources
+E:\Project3CSharp\Project3CSharp\Project3CSharp\obj\Debug\Project3CSharp.Properties.Resources.resources
+E:\Project3CSharp\Project3CSharp\Project3CSharp\obj\Debug\Project3CSharp.csproj.GenerateResource.Cache
+E:\CSharp\Project3CSharp\Project3CSharp\Project3CSharp\bin\Debug\Project3CSharp.exe.config
+E:\CSharp\Project3CSharp\Project3CSharp\Project3CSharp\obj\Debug\Project3CSharp.exe
+E:\CSharp\Project3CSharp\Project3CSharp\Project3CSharp\obj\Debug\Project3CSharp.pdb

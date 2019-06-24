@@ -1,0 +1,77 @@
+F:\Capstone\CapstoneProject\CapstoneProject\bin\Debug\CapstoneProject.exe.config
+E:\Capstone\CapstoneProject\CapstoneProject\bin\Debug\DictionaryDataSet.Designer.cs
+E:\Capstone\CapstoneProject\CapstoneProject\bin\Debug\DictionaryDataSet.xsc
+E:\Capstone\CapstoneProject\CapstoneProject\bin\Debug\DictionaryDataSet.xsd
+E:\Capstone\CapstoneProject\CapstoneProject\bin\Debug\DictionaryDataSet.xss
+E:\Capstone\CapstoneProject\CapstoneProject\bin\Debug\CapstoneProject.exe.config
+E:\Capstone\CapstoneProject\CapstoneProject\bin\Debug\CapstoneProject.exe
+E:\Capstone\CapstoneProject\CapstoneProject\bin\Debug\CapstoneProject.pdb
+E:\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.AddWordForm.resources
+E:\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.EditWordForm.resources
+E:\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.mainForm.resources
+E:\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.Properties.Resources.resources
+E:\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.csproj.GenerateResource.Cache
+E:\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.exe
+E:\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.pdb
+E:\Capstone\CapstoneProject\CapstoneProject\bin\Debug\Dictionary.mdf
+E:\Capstone\CapstoneProject\CapstoneProject\bin\Debug\Dictionary_log.ldf
+F:\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.exe
+F:\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.pdb
+F:\Capstone\CapstoneProject\CapstoneProject\bin\Debug\Dictionary.mdf
+F:\Capstone\CapstoneProject\CapstoneProject\bin\Debug\Dictionary_log.ldf
+F:\Capstone\CapstoneProject\CapstoneProject\bin\Debug\DictionaryDataSet.Designer.cs
+F:\Capstone\CapstoneProject\CapstoneProject\bin\Debug\DictionaryDataSet.xsc
+F:\Capstone\CapstoneProject\CapstoneProject\bin\Debug\DictionaryDataSet.xsd
+F:\Capstone\CapstoneProject\CapstoneProject\bin\Debug\DictionaryDataSet.xss
+F:\Capstone\CapstoneProject\CapstoneProject\bin\Debug\CapstoneProject.exe
+F:\Capstone\CapstoneProject\CapstoneProject\bin\Debug\CapstoneProject.pdb
+F:\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.csprojResolveAssemblyReference.cache
+F:\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.AddWordForm.resources
+F:\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.EditWordForm.resources
+F:\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.mainForm.resources
+F:\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.Properties.Resources.resources
+F:\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.csproj.GenerateResource.Cache
+E:\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.csprojResolveAssemblyReference.cache
+C:\Users\MarcSem\Documents\C# Programming\Capstone\CapstoneProject\CapstoneProject\bin\Debug\CapstoneProject.exe.config
+C:\Users\MarcSem\Documents\C# Programming\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.exe
+C:\Users\MarcSem\Documents\C# Programming\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.pdb
+C:\Users\MarcSem\Documents\C# Programming\Capstone\CapstoneProject\CapstoneProject\bin\Debug\Dictionary.mdf
+C:\Users\MarcSem\Documents\C# Programming\Capstone\CapstoneProject\CapstoneProject\bin\Debug\Dictionary_log.ldf
+C:\Users\MarcSem\Documents\C# Programming\Capstone\CapstoneProject\CapstoneProject\bin\Debug\DictionaryDataSet.Designer.cs
+C:\Users\MarcSem\Documents\C# Programming\Capstone\CapstoneProject\CapstoneProject\bin\Debug\DictionaryDataSet.xsc
+C:\Users\MarcSem\Documents\C# Programming\Capstone\CapstoneProject\CapstoneProject\bin\Debug\DictionaryDataSet.xsd
+C:\Users\MarcSem\Documents\C# Programming\Capstone\CapstoneProject\CapstoneProject\bin\Debug\DictionaryDataSet.xss
+C:\Users\MarcSem\Documents\C# Programming\Capstone\CapstoneProject\CapstoneProject\bin\Debug\CapstoneProject.exe
+C:\Users\MarcSem\Documents\C# Programming\Capstone\CapstoneProject\CapstoneProject\bin\Debug\CapstoneProject.pdb
+C:\Users\MarcSem\Documents\C# Programming\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.csprojResolveAssemblyReference.cache
+C:\Users\MarcSem\Documents\C# Programming\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.AddWordForm.resources
+C:\Users\MarcSem\Documents\C# Programming\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.EditWordForm.resources
+C:\Users\MarcSem\Documents\C# Programming\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.mainForm.resources
+C:\Users\MarcSem\Documents\C# Programming\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.Properties.Resources.resources
+C:\Users\MarcSem\Documents\C# Programming\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.csproj.GenerateResource.Cache
+F:\CSharp\Capstone\CapstoneProject\CapstoneProject\bin\Debug\CapstoneProject.exe.config
+F:\CSharp\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.exe
+F:\CSharp\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.pdb
+E:\CSharp\Capstone\CapstoneProject\CapstoneProject\bin\Debug\CapstoneProject.exe.config
+E:\CSharp\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.exe
+E:\CSharp\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.pdb
+E:\CSharp\Capstone\CapstoneProject\CapstoneProject\bin\Debug\DictionaryDataSet.xsc
+E:\CSharp\Capstone\CapstoneProject\CapstoneProject\bin\Debug\DictionaryDataSet.xsd
+E:\CSharp\Capstone\CapstoneProject\CapstoneProject\bin\Debug\DictionaryDataSet.xss
+E:\CSharp\Capstone\CapstoneProject\CapstoneProject\bin\Debug\Dictionary.mdf
+E:\CSharp\Capstone\CapstoneProject\CapstoneProject\bin\Debug\Dictionary_log.ldf
+E:\CSharp\Capstone\CapstoneProject\CapstoneProject\bin\Debug\DictionaryDataSet.Designer.cs
+E:\CSharp\Capstone\CapstoneProject\CapstoneProject\bin\Debug\CapstoneProject.exe
+E:\CSharp\Capstone\CapstoneProject\CapstoneProject\bin\Debug\CapstoneProject.pdb
+E:\CSharp\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.csprojResolveAssemblyReference.cache
+E:\CSharp\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.AddWordForm.resources
+E:\CSharp\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.EditWordForm.resources
+E:\CSharp\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.mainForm.resources
+E:\CSharp\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.Properties.Resources.resources
+E:\CSharp\Capstone\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.csproj.GenerateResource.Cache
+E:\CSharp\Capstone\CapstoneProject\CapstoneProject\bin\Debug\DictionaryDBCap.mdf
+E:\CSharp\Capstone\CapstoneProject\CapstoneProject\bin\Debug\DictionaryDBCap_log.ldf
+E:\CSharp\Capstone\CapstoneProject\CapstoneProject\bin\Debug\DictionaryDBCapDataSet.Designer.cs
+E:\CSharp\Capstone\CapstoneProject\CapstoneProject\bin\Debug\DictionaryDBCapDataSet.xsc
+E:\CSharp\Capstone\CapstoneProject\CapstoneProject\bin\Debug\DictionaryDBCapDataSet.xsd
+E:\CSharp\Capstone\CapstoneProject\CapstoneProject\bin\Debug\DictionaryDBCapDataSet.xss

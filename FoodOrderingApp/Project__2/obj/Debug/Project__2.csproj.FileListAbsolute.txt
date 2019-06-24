@@ -1,0 +1,15 @@
+E:\C#\Project__2\Project__2\bin\Debug\Project__2.exe.config
+E:\C#\Project__2\Project__2\bin\Debug\Project__2.exe
+E:\C#\Project__2\Project__2\bin\Debug\Project__2.pdb
+E:\C#\Project__2\Project__2\obj\Debug\Project__2.csprojResolveAssemblyReference.cache
+E:\C#\Project__2\Project__2\obj\Debug\Project2.Form1.resources
+E:\C#\Project__2\Project__2\obj\Debug\Project2.Properties.Resources.resources
+E:\C#\Project__2\Project__2\obj\Debug\Project__2.csproj.GenerateResource.Cache
+E:\C#\Project__2\Project__2\obj\Debug\Project__2.exe
+E:\C#\Project__2\Project__2\obj\Debug\Project__2.pdb
+E:\Project__2\Project__2\bin\Debug\Project__2.exe.config
+E:\Project__2\Project__2\obj\Debug\Project__2.exe
+E:\Project__2\Project__2\obj\Debug\Project__2.pdb
+E:\CSharp\Project__2\Project__2\bin\Debug\Project__2.exe.config
+E:\CSharp\Project__2\Project__2\obj\Debug\Project__2.exe
+E:\CSharp\Project__2\Project__2\obj\Debug\Project__2.pdb
